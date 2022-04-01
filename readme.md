@@ -31,7 +31,7 @@ C'est un jeu vidéo simple dans lequel le joueur contrôle à l'aide du clavier 
 1. Récupérer le projet en lançant la commande suivante:
 
 ```bash
-  git clone https://github.com/HamzaLaghrissi/TaskApp.git
+  git clone https://github.com/HamzaLaghrissi/starShip-shooter-game.git
 ```
 
 2. Installer les paquets *Node.js* :
